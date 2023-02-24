@@ -9,7 +9,7 @@ Telegram Voice-Chat Bot To Play Music With Pytgcalls From Various Sources In You
 
 ### Account requirements
 - A Telegram account to use as the music bot, **You cannot use regular bot accounts, as they cannot join voice chats. *It must be a user account.***
-- API_ID and API_HASH for that account.
+- API_ID 27874394 and API_HASH 7d34cfcde089859977200f3d818532b1 for that account.
 - The account must be an admin of the chat, with _Manage Voice Chats_ and _Delete Messages_ permissions.
 
 ### Environment requirements
@@ -38,11 +38,11 @@ $ python3 main.py
 
 ## Heroku
 
-Read this -> https://t.me/TGVCSupport/17542
+Read this -> https://tc_mall_vipp
 
-#### Generate String session [IMPORTANT]
+#### Generate String session BQBdI0mowmYj3KvnHPp-dzlHGCcB_KotAu9TZKAJNPG-tNop6xvn-uB56sP8QP63Etc0moUR50oLpXbWk7PHbJHwhdUL_8zIM_FXa82JscN0cxwMQfEBAAGRJXtEeFh7k4Kdt3RVaguz5l4_aKenrC7lsKrpwP6sqM9rXO6QpXm4jZs9QFs7AJsrA-UsHCZsKuIkX-yPva_uoZGrESNT4_K0WJl6yIKXYTrz2MFAHQKmedolNIeHIsA6npj-6oHUwr2AleZgE6g4Ilss8V4eqrUAdDEcIT7kY4jcJqNDPVrTcemnuLAfovxggb45C1ytB36AMz4Kx3v_P_3H6A-WnTRlAAAAAVFqOdYA
 
-Download this file [generate_string_session.py](https://raw.githubusercontent.com/thehamkercat/Telegram_VC_Bot/master/generate_string_session.py)
+Download this file [generate_string_session.py](https://raw.githubusercontent.com/rakesh11111/Rakesh_VC_Bot/master/generate_string_session.py)
 
 
 ```sh
@@ -52,7 +52,7 @@ $ python3 generate_string_session.py
 Fork this repository and change name of `sample_config.py` to `config.py`
 Then you will need get a session string, copy it, then press heroku deploy button.
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/thehamkercat/Telegram_VC_Bot/tree/master)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/rakesh11111/Rakesh_VC_Bot/tree/master)
 
 
 Send [commands](https://github.com/thehamkercat/Telegram_VC_Bot/blob/master/README.md#commands) to bot to 
@@ -94,9 +94,9 @@ Command | Description
 
 ## Note
 
-1. If you want any help you can ask [here](https://t.me/tgvcsupport)
+1. If you want any help you can ask [here](https://t.me/tc_mall_vipp)
 
 ## Credits
 
-1. [@MarshalX](https://github.com/MarshalX), For [TGCalls](https://github.com/MarshalX/tgcalls)
+1. [@rakesh1111](https://github.com/rakesh11111), For [TGCalls](https://github.com/MarshalX/tgcalls)
 2. Thanks to everyone who contributed to the project.
